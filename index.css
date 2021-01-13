@@ -1,0 +1,17 @@
+.html,body{
+    background-color: #EDEDED;
+}
+.container form{
+	padding: 10%;
+}
+.firstcol{
+	box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+	background-color: #fff;
+}
+.secondcol{
+	background-color: rgb(76,190,225);
+}
+.img-fluid{
+	max-width: 100%; 
+	width: 360px;
+}
